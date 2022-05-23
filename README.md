@@ -2,20 +2,30 @@
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/REPO-NAME)](https://api.reuse.software/info/github.com/SAP-samples/REPO-NAME)
 -->
 
-# [Title]
+# Integrating gCTS with Transport Organizer processes
 
 ## Description
+You can use the coding provided in this repository if you would like to integrate your development processes with gCTS to
+- enable task-based committing
+- integrate the gCTS Regsitry in the process of releasing a task
+You can find a detailed description of the BAdI implemetation, its options and functionality in a blog post [Integrating gCTS with Transport Organizer processes](https://blogs.sap.com/2022/05/23/integrating-gcts…anizer-processes/) in SAP Community
 
 ## Requirements
+- your ABAP system is on SAP S/4HANA 2020 SPS2 at least
+- you have gCTS configured
 
 ## Download and Installation
+- fork this repository
+- connect your ABAP development system to the forked repository via gCTS
+- clone it to your ABAP development system
+A detailed description is provided in the blog post [Integrating gCTS with Transport Organizer processes](https://blogs.sap.com/2022/05/23/integrating-gcts…anizer-processes/) in SAP Community
 
 ## Known Issues
 
 ## How to obtain support
 [Create an issue](https://github.com/SAP-samples/s4hana-gcts/issues) in this repository if you find a bug or have questions about the content.
  
-For additional support, [ask a question in SAP Community](https://answers.sap.com/questions/ask.html).
+For additional support, [ask a question in SAP Community](https://answers.sap.com/questions/ask.html). Use the tag 'Software Logistics - Change Control and Transport'
 
 ## Contributing
 If you wish to contribute code, offer fixes or improvements, please send a pull request. Due to legal reasons, contributors will be asked to accept a DCO when they create the first pull request to this project. This happens in an automated fashion during the submission process. SAP uses [the standard DCO text of the Linux Foundation](https://developercertificate.org/).
