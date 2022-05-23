@@ -5,10 +5,11 @@
 # Integrating gCTS with Transport Organizer processes
 
 ## Description
-Git-enabled Change and Transport System (gCTS) enables you to manage your ABAP change and transport management processes using Git as an external version management system. You can use it to leverage the functions of Git repositories and to set up continuous integration and delivery processes (CI/CD) for ABAP. The aim of gCTS is to allow DevOps processes for ABAP, as well
-You can find more information about gCTS in general on the SAP Help Portal at [Git-Enabled Change and Transport System](https://help.sap.com/docs/ABAP_PLATFORM_NEW/4a368c163b08418890a406d413933ba7/f319b168e87e42149e25e13c08d002b9.html)
-You can use the coding provided in this repository if you would like to integrate your ABAP development processes with gCTS to enable task-based committing and to integrate the gCTS Regsitry in the process of releasing a task.
-You can find a detailed description of the BAdI implemetation, its options and functionality in a blog post [Integrating gCTS with Transport Organizer processes](https://blogs.sap.com/2022/05/23/integrating-gcts…anizer-processes/) in SAP Community
+Git-enabled Change and Transport System (gCTS) enables you to manage your ABAP change and transport management processes using Git as an external version management system. You can use it to leverage the functions of Git repositories and to set up continuous integration and delivery processes (CI/CD) for ABAP. The aim of gCTS is to allow DevOps processes for ABAP, as well.
+
+* You can find more information about gCTS in general on the SAP Help Portal at [Git-Enabled Change and Transport System](https://help.sap.com/docs/ABAP_PLATFORM_NEW/4a368c163b08418890a406d413933ba7/f319b168e87e42149e25e13c08d002b9.html)
+* You can use the coding provided in this repository if you would like to integrate your ABAP development processes with gCTS to enable task-based committing and to integrate the gCTS Regsitry in the process of releasing a task
+* You can find a detailed description of the BAdI implemetation, its options and functionality in this SAP Community blog post [Integrating gCTS with Transport Organizer processes](https://blogs.sap.com/2022/05/23/integrating-gcts…anizer-processes/)
 
 ## Requirements
 - your ABAP system is on SAP S/4HANA 2020 SPS2 at least
@@ -22,7 +23,7 @@ You can find a detailed description of the BAdI implemetation, its options and f
 A detailed description is provided in the blog post [Integrating gCTS with Transport Organizer processes](https://blogs.sap.com/2022/05/23/integrating-gcts…anizer-processes/) in SAP Community
 
 ## Known Issues
-none currently known
+None currently known
 
 ## How to obtain support
 [Create an issue](https://github.com/SAP-samples/s4hana-gcts/issues) in this repository if you find a bug or have questions about the content.
