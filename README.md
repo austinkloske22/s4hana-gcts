@@ -13,6 +13,7 @@ You can find a detailed description of the BAdI implemetation, its options and f
 ## Requirements
 - your ABAP system is on SAP S/4HANA 2020 SPS2 at least
 - you have gCTS configured
+- you have SAP Note 3204481 - [gCTS: Fix for missing objects when importing into a repository with a subdirectory](https://launchpad.support.sap.com/#/notes/3204481) implemented 
 
 ## Download and Installation
 - fork this repository
