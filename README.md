@@ -9,7 +9,7 @@ Git-enabled Change and Transport System (gCTS) enables you to manage your ABAP c
 
 * You can find more information about gCTS in general on the SAP Help Portal at [Git-Enabled Change and Transport System](https://help.sap.com/docs/ABAP_PLATFORM_NEW/4a368c163b08418890a406d413933ba7/f319b168e87e42149e25e13c08d002b9.html)
 * You can use the coding provided in this repository if you would like to integrate your ABAP development processes with gCTS to enable task-based committing and to integrate the gCTS Regsitry in the process of releasing a task
-* You can find a detailed description of the BAdI implemetation, its options and functionality in this SAP Community blog post [Integrating gCTS with Transport Organizer processes](https://blogs.sap.com/2022/05/23/integrating-gcts…anizer-processes/)
+* You can find a detailed description of the BAdI implemetation, its options and functionality in this SAP Community blog post [Integrating gCTS with Transport Organizer processes](https://blogs.sap.com/2022/05/24/integrating-gcts-with-transport-organizer-processes/)
 
 ## Requirements
 - your ABAP system is on SAP S/4HANA 2020 SPS2 at least
